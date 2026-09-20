@@ -1,4 +1,4 @@
-# Vehicle Management API - Seidor Technical Challenge
+# Vehicle Management API - Technical Challenge
 
 REST API developed with Node.js, TypeScript and Express for managing vehicles, drivers and vehicle usage records.
 
